@@ -1,3 +1,3 @@
 # Calculator
 
-!(/img/calculator.png)
+![](/img/calculator.png)
